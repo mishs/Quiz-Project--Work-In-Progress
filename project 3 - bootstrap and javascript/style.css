@@ -1,0 +1,15 @@
+body{
+  margin:0;
+  padding: 0;
+}
+
+.container {
+    margin: 15px auto;
+}
+
+.text-center { color: gray; }
+
+h2 {
+    color: #065374;
+}
+
